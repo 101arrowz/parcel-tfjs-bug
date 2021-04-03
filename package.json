@@ -1,0 +1,14 @@
+{
+  "name": "parcel-tfjs",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.633"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.3.0"
+  },
+  "scripts": {
+    "build": "parcel build index.html"
+  }
+}
